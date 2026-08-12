@@ -88,13 +88,8 @@ zepto-sales-analysis-dashboard/
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 🙋 Author
 
-Maintained by **[Your Name]** — feel free to connect or raise an issue if you spot something to improve.
+Maintained by **[gunda jeshwanth]** — feel free to connect or raise an issue if you spot something to improve.
 
