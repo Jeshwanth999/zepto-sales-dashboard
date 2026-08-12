@@ -47,7 +47,7 @@ Each KPI card is a **formula-linked cell** (using `SUM`, `COUNTA`/`DISTINCTCOUNT
 
 All slicers are connected to **every relevant PivotTable** on the sheet, so selecting one filter (e.g. City = Mumbai) updates the KPIs and all charts simultaneously.
 
-Full step-by-step build instructions: **[docs/SLICER_GUIDE.md](docs/SLICER_GUIDE.md)**
+Full step-by-step build instructions: **https://github.com/Jeshwanth999/zepto-sales-dashboard/blob/main/SLICER_GUIDE.md)**
 
 ---
 
